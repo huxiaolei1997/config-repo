@@ -21,6 +21,6 @@ server:
 env:
   dev
 man:
-  hello
+  bat
   
   
