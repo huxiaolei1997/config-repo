@@ -20,4 +20,7 @@ server:
   port: 8081
 env:
   dev
+man:
+  hello
+  
   
