@@ -11,7 +11,11 @@ spring:
     host: localhost
     port: 5672
     username: guest
-    password: guest  
+    password: guest
+  redis:
+    host: 139.196.140.168
+    port: 6379
+    password: hxl2580
   jpa:
     show-sql: true
 eureka:
