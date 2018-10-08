@@ -16,5 +16,5 @@ eureka:
   instance:
     hostname: order
 # 最好写在运行时参数里面
-server:
-  port: 8081
+#server:
+#  port: 8081
