@@ -4,7 +4,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: hxl2580
+    password: Zjkhhxl@1997
     # 可以使用不同的数据库，为了方便使用同一个数据库
     url: jdbc:mysql://139.196.140.168:3306/SpringCloud_Sell?characterEncoding=utf-8&useSSL=false
   rabbitmq:
