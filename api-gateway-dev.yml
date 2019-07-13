@@ -1,7 +1,6 @@
 zuul:
   routes:
     product: /myProduct/**
-    order: /order/**
   # 不过滤cookie
   sensitiveHeaders:
   #    myProduct:
