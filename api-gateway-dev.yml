@@ -15,6 +15,10 @@ zuul:
 ribbon:
   ReadTimeout: 60000
   ConnectTimeout: 60000
+redis:
+  host: 139.196.140.168
+  port: 6379
+  password: hxl2580
 #hystrix:
 #  command:
 #    default:
